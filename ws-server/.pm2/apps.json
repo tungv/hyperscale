@@ -1,0 +1,6 @@
+{
+  "apps": [{
+    "name": "hyperscale-server",
+    "script": "_dist/hyperscale.js"
+  }]
+}
